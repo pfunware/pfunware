@@ -1,0 +1,2 @@
+﻿Publish database including new viewmodel
+confirm database update doesn't delete prod data
