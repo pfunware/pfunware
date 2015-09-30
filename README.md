@@ -1,2 +1,2 @@
 # pfunware
-Project for trying out new things
+Project for trying out new things!
