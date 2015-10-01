@@ -2,3 +2,6 @@ Pfunware.Tests/bin/*
 Pfunware.Tests/obj/*
 Pfunware/bin/*
 Pfunware/obj/*
+*.mdf
+*.ldf
+*.suo
